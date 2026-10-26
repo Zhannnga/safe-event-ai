@@ -1,0 +1,822 @@
+{
+  "generated_at": "2026-06-30T14:48:37Z",
+  "purpose": "Speaker candidate pool for Astana Hub / alem.ai Telegram event recommendation agent.",
+  "important_note": "These are candidate suggestions only. Do not present them as confirmed speakers. Availability, contact, current role, and permission must be verified manually before event planning.",
+  "selection_logic": [
+    "Included speakers already found in the scraped Astana Hub event dataset.",
+    "Added real public Kazakhstan-relevant AI, data, product, design, and tech ecosystem figures from public sources.",
+    "Avoided invented names; candidates with unclear identity were excluded or marked with verification notes."
+  ],
+  "count": 21,
+  "candidates": [
+    {
+      "id": "spk_abylai_turekhasim",
+      "name": "Abylai Turekhasim",
+      "role": "AI Engineer",
+      "organization": "Freedom AI Labs / Freedom Holding",
+      "source_type": "past_event_and_public_profile",
+      "expertise": [
+        "AI engineering",
+        "ML research automation",
+        "applied AI",
+        "Freedom AI ecosystem"
+      ],
+      "good_for_event_types": [
+        "technical meetup",
+        "AI workshop",
+        "ML case study",
+        "hackathon mentor"
+      ],
+      "suggested_talk_topics": [
+        "How to automate ML research workflows",
+        "From prototype to production AI systems",
+        "Practical AI engineering for startup teams"
+      ],
+      "best_audience": [
+        "AI engineers",
+        "ML students",
+        "startup builders",
+        "backend developers"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Already appeared in the scraped ChocoDevDay ML & Data Meetup as an AI Engineer speaker and fits practical AI/ML event recommendations.",
+      "source_url": "https://astanahub.com/en/event/chocodevday-ml-data-meetup1781252841/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_adilet_zhaksybai",
+      "name": "Adilet Zhaksybai",
+      "role": "ex-Google DeepMind",
+      "organization": "Google DeepMind (former)",
+      "source_type": "past_event",
+      "expertise": [
+        "large AI systems",
+        "Gemini",
+        "AI research",
+        "deep learning"
+      ],
+      "good_for_event_types": [
+        "keynote",
+        "technical meetup",
+        "AI research talk",
+        "career talk"
+      ],
+      "suggested_talk_topics": [
+        "Lessons from working on Gemini at Google DeepMind",
+        "How frontier AI teams build and evaluate models",
+        "Career path into international AI research"
+      ],
+      "best_audience": [
+        "AI researchers",
+        "advanced students",
+        "ML engineers",
+        "tech founders"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as a speaker in the scraped ChocoDevDay ML & Data Meetup, with a topic directly connected to Gemini and international AI research.",
+      "source_url": "https://astanahub.com/en/event/chocodevday-ml-data-meetup1781252841/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and current role must be verified manually."
+    },
+    {
+      "id": "spk_tseren_anjukaev",
+      "name": "Tseren Anjukaev",
+      "role": "Co-founder",
+      "organization": "NCSpeech",
+      "source_type": "past_event_and_public_news",
+      "expertise": [
+        "speech AI",
+        "data for GenAI",
+        "voice AI",
+        "startup building"
+      ],
+      "good_for_event_types": [
+        "AI startup talk",
+        "technical meetup",
+        "founder talk",
+        "data architecture session"
+      ],
+      "suggested_talk_topics": [
+        "Enterprise GenAI: data architecture as a competitive advantage",
+        "Building a speech AI startup in Kazakhstan",
+        "How to collect and structure data for GenAI products"
+      ],
+      "best_audience": [
+        "AI founders",
+        "data engineers",
+        "ML engineers",
+        "B2B startup teams"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Appeared in the scraped ChocoDevDay event as co-founder of NCSpeech. Public reporting also identifies him among NCSpeech founders.",
+      "source_url": "https://digitalbusiness.kz/en/2026-05-28/kazakhstani-startup-finds-a-smarter-way-to-collect-data-for-genai-and-is-raising-3m/",
+      "verification_status": "verified_from_scraped_event_and_public_news",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_rustem_tukabekov",
+      "name": "Rustem Tukabekov",
+      "role": "Chief Data Officer",
+      "organization": "Halyk Market",
+      "source_type": "past_event",
+      "expertise": [
+        "analytics",
+        "data teams",
+        "data-driven decisions",
+        "marketplace analytics"
+      ],
+      "good_for_event_types": [
+        "analytics meetup",
+        "data workshop",
+        "product analytics session"
+      ],
+      "suggested_talk_topics": [
+        "Building analytics from scratch",
+        "Data-driven decision-making in marketplaces",
+        "What startup teams should track before scaling"
+      ],
+      "best_audience": [
+        "data analysts",
+        "product managers",
+        "startup founders",
+        "business analysts"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as a speaker in the scraped ChocoDevDay ML & Data Meetup for a talk on building analytics from scratch.",
+      "source_url": "https://astanahub.com/en/event/chocodevday-ml-data-meetup1781252841/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and current role must be verified manually."
+    },
+    {
+      "id": "spk_kamila_bishenova",
+      "name": "Kamila Bishenova",
+      "role": "Data Analyst",
+      "organization": "Kolesa Group",
+      "source_type": "past_event",
+      "expertise": [
+        "product analytics",
+        "experimentation",
+        "holdout testing",
+        "data-driven product decisions"
+      ],
+      "good_for_event_types": [
+        "analytics meetup",
+        "product analytics workshop",
+        "case study talk"
+      ],
+      "suggested_talk_topics": [
+        "Why a successful A/B test is not always a victory",
+        "Using holdout groups in product experiments",
+        "Analytics mistakes product teams make during rollout"
+      ],
+      "best_audience": [
+        "data analysts",
+        "product managers",
+        "growth teams",
+        "startup founders"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Online"
+      ],
+      "why_candidate": "Speaker in the scraped Kolesa Online Analytics Meetup 2026, focused on product experiment lifecycle and holdout testing.",
+      "source_url": "https://astanahub.com/en/event/kolesa-online-meetup-po-analitike-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_sasha_evgrafova",
+      "name": "Sasha Evgrafova",
+      "role": "Product Designer",
+      "organization": "Kolesa Group",
+      "source_type": "past_event",
+      "expertise": [
+        "product design",
+        "customer experience",
+        "offline-to-online UX",
+        "event experience design"
+      ],
+      "good_for_event_types": [
+        "design meetup",
+        "product workshop",
+        "CX case study"
+      ],
+      "suggested_talk_topics": [
+        "Design beyond interfaces: improving CX at events",
+        "How product design principles apply offline",
+        "Designing smoother user journeys for community events"
+      ],
+      "best_audience": [
+        "product designers",
+        "UX designers",
+        "product managers",
+        "event product teams"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Speaker in the scraped Kolesa Product Design Meetup with a talk on improving CX at Kolesa Conf.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_diaz_tuleubai",
+      "name": "Diaz Tuleubai",
+      "role": "Design System Lead",
+      "organization": "Bank CenterCredit",
+      "source_type": "past_event",
+      "expertise": [
+        "DesignOps",
+        "Figma automation",
+        "design systems",
+        "process automation"
+      ],
+      "good_for_event_types": [
+        "design meetup",
+        "automation workshop",
+        "product operations session"
+      ],
+      "suggested_talk_topics": [
+        "DesignOps on steroids: automating Figma workflows",
+        "How design systems reduce routine work",
+        "Scaling design processes in product teams"
+      ],
+      "best_audience": [
+        "designers",
+        "design leads",
+        "product managers",
+        "frontend teams"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Speaker in the scraped Kolesa Product Design Meetup with a topic on Figma automation and DesignOps.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_vladislav_gusev",
+      "name": "Vladislav Gusev",
+      "role": "Product Designer",
+      "organization": "Kolesa Group",
+      "source_type": "past_event",
+      "expertise": [
+        "product design",
+        "UX cases",
+        "design critique",
+        "product team workflows"
+      ],
+      "good_for_event_types": [
+        "panel discussion",
+        "design meetup",
+        "case review session"
+      ],
+      "suggested_talk_topics": [
+        "Real problems product designers face in teams",
+        "Live design critique for startup products",
+        "How designers and product managers should collaborate"
+      ],
+      "best_audience": [
+        "product designers",
+        "junior designers",
+        "startup teams",
+        "product managers"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as an invited guest in the scraped Kolesa Product Design Meetup.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_azhar_kultasova",
+      "name": "Azhar Kultasova",
+      "role": "International Head of Product Design",
+      "organization": "ex-OpenTable / Booking.com, BBC News",
+      "source_type": "past_event",
+      "expertise": [
+        "international product design",
+        "design leadership",
+        "media products",
+        "global UX"
+      ],
+      "good_for_event_types": [
+        "keynote",
+        "design leadership talk",
+        "panel discussion"
+      ],
+      "suggested_talk_topics": [
+        "What local product teams can learn from global design orgs",
+        "Design leadership across international products",
+        "Building product design quality at scale"
+      ],
+      "best_audience": [
+        "design leads",
+        "senior product designers",
+        "product managers",
+        "startup founders"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as an invited guest in the scraped Kolesa Product Design Meetup with international product design background.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and current role must be verified manually."
+    },
+    {
+      "id": "spk_victor_krivenky",
+      "name": "Victor Krivenky",
+      "role": "Head of Design",
+      "organization": "Bank CenterCredit",
+      "source_type": "past_event",
+      "expertise": [
+        "design leadership",
+        "banking UX",
+        "design operations",
+        "product design management"
+      ],
+      "good_for_event_types": [
+        "design panel",
+        "UX leadership session",
+        "banking product design talk"
+      ],
+      "suggested_talk_topics": [
+        "Design leadership inside a bank",
+        "How fintech UX teams balance speed, trust, and compliance",
+        "Building mature design processes in large organizations"
+      ],
+      "best_audience": [
+        "designers",
+        "fintech teams",
+        "product managers",
+        "startup founders"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as an invited guest in the scraped Kolesa Product Design Meetup.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_roman_iminov",
+      "name": "Roman Iminov",
+      "role": "Product Design Lead",
+      "organization": "Kolesa Group",
+      "source_type": "past_event",
+      "expertise": [
+        "product design leadership",
+        "design critique",
+        "product team collaboration"
+      ],
+      "good_for_event_types": [
+        "design panel",
+        "product design workshop",
+        "portfolio review"
+      ],
+      "suggested_talk_topics": [
+        "How product design leads evaluate design quality",
+        "Live design review for startups",
+        "Common design mistakes in early-stage digital products"
+      ],
+      "best_audience": [
+        "product designers",
+        "junior designers",
+        "startup founders",
+        "product managers"
+      ],
+      "region_fit": [
+        "Almaty",
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Listed as an invited guest in the scraped Kolesa Product Design Meetup.",
+      "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_alexey_kim",
+      "name": "Alexey Kim",
+      "role": "Content creator",
+      "organization": "Independent / creator economy",
+      "source_type": "past_event",
+      "expertise": [
+        "viral content",
+        "recommendation algorithms",
+        "content strategy",
+        "creator economy"
+      ],
+      "good_for_event_types": [
+        "content workshop",
+        "marketing meetup",
+        "creator economy session"
+      ],
+      "suggested_talk_topics": [
+        "How recommendation algorithms push content",
+        "Practical attention-retention mechanics for short-form video",
+        "Building viral content systems for startups"
+      ],
+      "best_audience": [
+        "content creators",
+        "startup marketers",
+        "founders",
+        "community managers"
+      ],
+      "region_fit": [
+        "Taldykorgan",
+        "Almaty",
+        "Online"
+      ],
+      "why_candidate": "Speaker in the scraped Content Chai event; the event text states his creator results and topic focus.",
+      "source_url": "https://astanahub.com/en/event/content-chai-obuchenie-sozdaniiu-viralnogo-kontenta/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_dmitry_vatyutov",
+      "name": "Dmitry Vatyutov",
+      "role": "AI Product Coach; ex-CPO Doshkola Tilly",
+      "organization": "VYUD AI / AIstack",
+      "source_type": "past_event",
+      "expertise": [
+        "AI product coaching",
+        "AI marketing",
+        "solo founder workflow",
+        "content automation",
+        "product launches"
+      ],
+      "good_for_event_types": [
+        "AI product workshop",
+        "founder education webinar",
+        "AI marketing demo"
+      ],
+      "suggested_talk_topics": [
+        "Building an AI marketer in 60 minutes",
+        "How solo founders can use AI as an operating system",
+        "Turning AI tools into weekly product and content workflows"
+      ],
+      "best_audience": [
+        "solo founders",
+        "startup founders",
+        "marketers",
+        "product managers",
+        "content creators"
+      ],
+      "region_fit": [
+        "Online",
+        "Astana",
+        "Almaty"
+      ],
+      "why_candidate": "Speaker in two scraped AIstack/VYUD AI events focused on AI marketing, AI product workflows, and founder education.",
+      "source_url": "https://astanahub.com/en/event/zhivaia-sborka-ai-marketolog-za-60-minut/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_arina_podafa",
+      "name": "Arina Podafa",
+      "role": "Human Resource Director",
+      "organization": "Freedom Processing",
+      "source_type": "past_event",
+      "expertise": [
+        "HR",
+        "burnout prevention",
+        "team wellbeing",
+        "motivation",
+        "workplace resilience"
+      ],
+      "good_for_event_types": [
+        "HR webinar",
+        "team wellbeing session",
+        "startup operations talk"
+      ],
+      "suggested_talk_topics": [
+        "How startup teams can stay productive without burnout",
+        "Early signs of emotional exhaustion in high-growth teams",
+        "Maintaining motivation and engagement at work"
+      ],
+      "best_audience": [
+        "startup teams",
+        "HR managers",
+        "founders",
+        "junior specialists"
+      ],
+      "region_fit": [
+        "Online",
+        "Almaty",
+        "Astana"
+      ],
+      "why_candidate": "Speaker in the scraped Stay Driven Without Burning Out event.",
+      "source_url": "https://astanahub.com/en/event/goret-no-ne-sgorat/",
+      "verification_status": "verified_from_scraped_event_public_page",
+      "availability_note": "Candidate only; availability and contact must be verified manually."
+    },
+    {
+      "id": "spk_magzhan_madiyev",
+      "name": "Magzhan Madiyev",
+      "role": "CEO",
+      "organization": "Astana Hub",
+      "source_type": "public_profile",
+      "expertise": [
+        "startup ecosystems",
+        "technology business",
+        "innovation policy",
+        "international tech partnerships"
+      ],
+      "good_for_event_types": [
+        "keynote",
+        "ecosystem panel",
+        "startup strategy session",
+        "investor/startup forum"
+      ],
+      "suggested_talk_topics": [
+        "How Astana Hub is scaling Kazakhstan's tech ecosystem",
+        "What startup founders should build for regional and global markets",
+        "International partnerships and startup growth from Kazakhstan"
+      ],
+      "best_audience": [
+        "startup founders",
+        "investors",
+        "ecosystem builders",
+        "government digital teams"
+      ],
+      "region_fit": [
+        "Astana",
+        "Almaty",
+        "Online"
+      ],
+      "why_candidate": "Public Astana Hub materials identify him as CEO/founding CEO and expert in technology business and innovation ecosystems.",
+      "source_url": "https://astanahub.com/en/hub-market/c/listing/expert-magzhan-madiev/",
+      "verification_status": "verified_from_public_profile",
+      "availability_note": "High-level candidate; availability likely requires official Astana Hub coordination."
+    },
+    {
+      "id": "spk_zhaslan_madiyev",
+      "name": "Zhaslan Madiyev",
+      "role": "Deputy Prime Minister — Minister of Artificial Intelligence and Digital Development",
+      "organization": "Government of Kazakhstan",
+      "source_type": "official_public_profile",
+      "expertise": [
+        "AI policy",
+        "digital transformation",
+        "national AI strategy",
+        "public-sector AI"
+      ],
+      "good_for_event_types": [
+        "keynote",
+        "policy panel",
+        "AI ecosystem forum",
+        "government digital transformation session"
+      ],
+      "suggested_talk_topics": [
+        "Kazakhstan's national AI agenda",
+        "How AI agents can improve public services",
+        "Building infrastructure and policy for a Generative Nation"
+      ],
+      "best_audience": [
+        "government teams",
+        "startup founders",
+        "AI companies",
+        "enterprise leaders",
+        "students"
+      ],
+      "region_fit": [
+        "Astana",
+        "Almaty"
+      ],
+      "why_candidate": "Official government profile lists him as Deputy Prime Minister and Minister of Artificial Intelligence and Digital Development.",
+      "source_url": "https://primeminister.kz/en/government/composition/madiyev",
+      "verification_status": "verified_from_official_government_source",
+      "availability_note": "High-level keynote candidate; not realistic for every event. Requires official coordination."
+    },
+    {
+      "id": "spk_sayasat_nurbek",
+      "name": "Sayasat Nurbek",
+      "role": "Minister of Science and Higher Education",
+      "organization": "Government of Kazakhstan",
+      "source_type": "public_profile_and_official_news",
+      "expertise": [
+        "AI education",
+        "higher education policy",
+        "AI workforce development",
+        "skills forecasting"
+      ],
+      "good_for_event_types": [
+        "education keynote",
+        "AI talent panel",
+        "university-industry session"
+      ],
+      "suggested_talk_topics": [
+        "AI education and workforce transformation in Kazakhstan",
+        "How universities should prepare students for AI careers",
+        "AI-Sana and national AI talent development"
+      ],
+      "best_audience": [
+        "students",
+        "educators",
+        "university leaders",
+        "AI policy teams",
+        "startup founders"
+      ],
+      "region_fit": [
+        "Astana",
+        "Almaty",
+        "Online"
+      ],
+      "why_candidate": "Public profile identifies him as Minister of Science and Higher Education; official/government reporting connects him to Kazakhstan's AI education agenda and Alem.ai university plans.",
+      "source_url": "https://sayasatnurbek.com/about-me/",
+      "verification_status": "verified_from_public_profile_and_government_reporting",
+      "availability_note": "High-level candidate; availability requires official coordination."
+    },
+    {
+      "id": "spk_huseyin_atakan_varol",
+      "name": "Huseyin Atakan Varol",
+      "role": "Professor of Robotics; founding director of ISSAI",
+      "organization": "Nazarbayev University / ISSAI",
+      "source_type": "official_academic_profile",
+      "expertise": [
+        "robotics",
+        "machine intelligence",
+        "AI research",
+        "sovereign AI systems"
+      ],
+      "good_for_event_types": [
+        "AI research keynote",
+        "robotics lecture",
+        "university AI panel",
+        "deep-tech forum"
+      ],
+      "suggested_talk_topics": [
+        "Building sovereign AI research infrastructure",
+        "Robotics and intelligent systems in Kazakhstan",
+        "How academia and startups can collaborate on AI"
+      ],
+      "best_audience": [
+        "AI researchers",
+        "students",
+        "deep-tech founders",
+        "robotics teams",
+        "policy makers"
+      ],
+      "region_fit": [
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Nazarbayev University/ISSAI sources identify him as a professor of robotics and founding director of ISSAI.",
+      "source_url": "https://issai.nu.edu.kz/2021/01/20/director-3/",
+      "verification_status": "verified_from_official_academic_source",
+      "availability_note": "Academic candidate; availability and topic fit should be verified manually."
+    },
+    {
+      "id": "spk_yerbolat_khassanov",
+      "name": "Yerbolat Khassanov",
+      "role": "AI / NLP researcher",
+      "organization": "ISSAI / Nazarbayev University",
+      "source_type": "official_academic_profile",
+      "expertise": [
+        "speech recognition",
+        "language modeling",
+        "NLP",
+        "Kazakh language AI"
+      ],
+      "good_for_event_types": [
+        "NLP workshop",
+        "AI research talk",
+        "speech AI session",
+        "local-language AI meetup"
+      ],
+      "suggested_talk_topics": [
+        "Building AI for low-resource languages",
+        "Kazakh speech recognition and language modeling",
+        "What startups can build on top of local-language AI datasets"
+      ],
+      "best_audience": [
+        "NLP students",
+        "AI engineers",
+        "researchers",
+        "edtech founders",
+        "govtech teams"
+      ],
+      "region_fit": [
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "ISSAI profile states his research interests include speech recognition, language modeling, and NLP; ISSAI publications list him as an author on KazakhTTS/KazakhTTS2.",
+      "source_url": "https://issai.nu.edu.kz/2021/01/21/director-2/",
+      "verification_status": "verified_from_official_academic_source",
+      "availability_note": "Academic/research candidate; availability must be verified manually."
+    },
+    {
+      "id": "spk_saida_mussakhojayeva",
+      "name": "Saida Mussakhojayeva",
+      "role": "Senior Data Scientist / AI researcher",
+      "organization": "ISSAI / Nazarbayev University",
+      "source_type": "public_academic_profile",
+      "expertise": [
+        "speech recognition",
+        "speech processing",
+        "text-to-speech",
+        "deep learning",
+        "Kazakh language AI"
+      ],
+      "good_for_event_types": [
+        "NLP workshop",
+        "AI research talk",
+        "women in AI panel",
+        "local-language AI session"
+      ],
+      "suggested_talk_topics": [
+        "Creating open-source Kazakh speech datasets",
+        "Speech AI for low-resource languages",
+        "Deep learning for text-to-speech and speech recognition"
+      ],
+      "best_audience": [
+        "AI students",
+        "NLP engineers",
+        "researchers",
+        "edtech teams"
+      ],
+      "region_fit": [
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "Public profiles and ISSAI/ACL sources connect her to KazakhTTS/KazakhTTS2 and speech AI research.",
+      "source_url": "https://aclanthology.org/2022.lrec-1.578/",
+      "verification_status": "verified_from_public_academic_sources",
+      "availability_note": "Academic/research candidate; availability must be verified manually."
+    },
+    {
+      "id": "spk_rustem_yeshpanov",
+      "name": "Rustem Yeshpanov",
+      "role": "Data Scientist / Kazakh NLP researcher",
+      "organization": "ISSAI / Nazarbayev University",
+      "source_type": "official_academic_profile",
+      "expertise": [
+        "Kazakh NLP",
+        "machine translation",
+        "sentiment analysis",
+        "speech datasets",
+        "language technology"
+      ],
+      "good_for_event_types": [
+        "NLP workshop",
+        "language AI meetup",
+        "data science talk",
+        "research demo"
+      ],
+      "suggested_talk_topics": [
+        "Kazakh NLP: datasets, models, and open problems",
+        "Machine translation for Kazakh, Russian, English, and Turkish",
+        "Building language datasets for Central Asian AI products"
+      ],
+      "best_audience": [
+        "NLP engineers",
+        "AI students",
+        "researchers",
+        "language-tech founders"
+      ],
+      "region_fit": [
+        "Astana",
+        "Online"
+      ],
+      "why_candidate": "ISSAI profile and publications identify him with Kazakh NLP and language AI research including KazParC and related datasets.",
+      "source_url": "https://issai.nu.edu.kz/2021/02/17/rustem-yeshpanov/",
+      "verification_status": "verified_from_official_academic_source",
+      "availability_note": "Academic/research candidate; availability must be verified manually."
+    }
+  ]
+}

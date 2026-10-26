@@ -1,0 +1,842 @@
+[
+  {
+    "source_url": "https://astanahub.com/en/event/otkryt-nabor-na-ai-startup-camp/",
+    "title_original": "🚀 We invite you to participate in the AI Startup Camp program!",
+    "title_normalized": "AI Startup Camp",
+    "short_description": "Hands-on intensive program for teams building AI products from idea to MVP using Claude and Lovable.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Offline",
+    "region": "Aktau",
+    "address": "J5V8+4GQ, Актау, Казахстан",
+    "start_datetime_original": "22.06.2026 16:00",
+    "end_datetime_original": "03.07.2026 20:00",
+    "start_datetime": "2026-06-22T16:00:00",
+    "end_datetime": "2026-07-03T20:00:00",
+    "event_type": "camp",
+    "target_audience": [
+      "startup beginners",
+      "AI product builders",
+      "no-code builders",
+      "students",
+      "early-stage founders"
+    ],
+    "organizer": "Mangystau Hub / Astana Hub Aktau branch",
+    "speakers": [],
+    "technologies": [
+      "AI",
+      "Claude",
+      "Lovable",
+      "MVP prototyping",
+      "no-code"
+    ],
+    "topics": [
+      "AI product development",
+      "startup building",
+      "MVP",
+      "team work",
+      "demo day"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "team application form",
+      "app check-in",
+      "demo day voting",
+      "post-event prototype showcase"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/javascript-pro-bootcamp/",
+    "title_original": "JavaScript Pro Bootcamp",
+    "title_normalized": "JavaScript Pro Bootcamp",
+    "short_description": "Advanced JavaScript bootcamp for developers who know the basics and want to study deeper language concepts and modern tools.",
+    "area_original": "Software Development,",
+    "areas": [
+      "Software Development"
+    ],
+    "format": "Online",
+    "region": "Oral",
+    "address": "Исатая-Махамбета 84, Уральск 090006, Казахстан",
+    "start_datetime_original": "25.06.2026 09:00",
+    "end_datetime_original": "03.07.2026 18:00",
+    "start_datetime": "2026-06-25T09:00:00",
+    "end_datetime": "2026-07-03T18:00:00",
+    "event_type": "bootcamp",
+    "target_audience": [
+      "JavaScript developers",
+      "junior developers",
+      "frontend developers",
+      "software development learners"
+    ],
+    "organizer": "Astana Hub Oral branch",
+    "speakers": [],
+    "technologies": [
+      "JavaScript",
+      "software architecture",
+      "modern development tools",
+      "frontend development"
+    ],
+    "topics": [
+      "advanced JavaScript",
+      "software development",
+      "developer upskilling"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "course progress tracking",
+      "app reminders",
+      "post-bootcamp quiz"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/lawtech-hackathon/",
+    "title_original": "LAWTECH Hackathon",
+    "title_normalized": "LAWTECH Hackathon",
+    "short_description": "One-day practice-oriented hackathon for building digital legal and anti-fraud solutions.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Offline",
+    "region": "Taldykorgan",
+    "address": "45°00'00.2\"N 78°20'40.1\"E, ул. Кунаева 47, Талдыкорган 040000, Казахстан",
+    "start_datetime_original": "29.06.2026 09:00",
+    "end_datetime_original": "29.06.2026 17:00",
+    "start_datetime": "2026-06-29T09:00:00",
+    "end_datetime": "2026-06-29T17:00:00",
+    "event_type": "hackathon",
+    "target_audience": [
+      "law students",
+      "IT students",
+      "young professionals",
+      "developers",
+      "designers",
+      "lawyers",
+      "active youth"
+    ],
+    "organizer": "IT HUB Jetisu Digital / Astana Hub Taldykorgan branch",
+    "speakers": [],
+    "technologies": [
+      "LawTech",
+      "Digital law",
+      "Anti-fraud",
+      "prototype development"
+    ],
+    "topics": [
+      "legal technology",
+      "digital law",
+      "anti-fraud",
+      "civic protection",
+      "hackathon"
+    ],
+    "portal_app_activation_ideas": [
+      "team registration through portal",
+      "mentor schedule in app",
+      "QR check-in",
+      "demo submission",
+      "jury voting"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/content-chai-obuchenie-sozdaniiu-viralnogo-kontenta/",
+    "title_original": "📝🎬 Content Chai: Learning to create viral content",
+    "title_normalized": "Content Chai: Learning to Create Viral Content",
+    "short_description": "Hands-on workshop on creating viral content, understanding recommendation algorithms, and improving audience retention.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Offline",
+    "region": "Taldykorgan",
+    "address": "45°00'00.2\"N 78°20'40.1\"E, ул. Кунаева 47, Талдыкорган 040000, Казахстан",
+    "start_datetime_original": "30.06.2026 17:00",
+    "end_datetime_original": "30.06.2026 18:00",
+    "start_datetime": "2026-06-30T17:00:00",
+    "end_datetime": "2026-06-30T18:00:00",
+    "event_type": "workshop",
+    "target_audience": [
+      "bloggers",
+      "experts",
+      "copywriters",
+      "content creators",
+      "creators transitioning from tech"
+    ],
+    "organizer": "IT HUB Jetisu Digital / Astana Hub Taldykorgan branch",
+    "speakers": [
+      {
+        "name": "Alexey Kim",
+        "role": "content creator"
+      }
+    ],
+    "technologies": [
+      "social media algorithms",
+      "content creation",
+      "audience retention",
+      "blogging"
+    ],
+    "topics": [
+      "viral content",
+      "recommendation algorithms",
+      "creator economy",
+      "content marketing"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "content challenge in app",
+      "best-post voting",
+      "post-event resource sharing"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/goret-no-ne-sgorat/",
+    "title_original": "Stay Driven Without Burning Out",
+    "title_normalized": "Stay Driven Without Burning Out",
+    "short_description": "Online session on sustaining energy, motivation, and work engagement while preventing emotional exhaustion.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Online",
+    "region": null,
+    "address": null,
+    "start_datetime_original": "30.06.2026 18:00",
+    "end_datetime_original": "30.06.2026 19:00",
+    "start_datetime": "2026-06-30T18:00:00",
+    "end_datetime": "2026-06-30T19:00:00",
+    "event_type": "webinar",
+    "target_audience": [
+      "employees",
+      "managers",
+      "high-intensity workers",
+      "professionals interested in burnout prevention"
+    ],
+    "organizer": "Freedom Processing",
+    "speakers": [
+      {
+        "name": "Arina Podafa",
+        "role": "Human Resource Director"
+      }
+    ],
+    "technologies": [
+      "HR",
+      "workplace wellbeing",
+      "burnout prevention"
+    ],
+    "topics": [
+      "motivation",
+      "burnout prevention",
+      "employee wellbeing",
+      "productivity"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "wellbeing checklist",
+      "post-event self-assessment",
+      "app discussion thread"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/kak-pereiti-v-it-bez-opyta-i-stat-product-manager-istoriia-vypusknitsy-tech-orda/",
+    "title_original": "🚀 How to enter IT without experience and become a Product Manager: the story of a Tech Orda graduate",
+    "title_normalized": "How to Enter IT Without Experience and Become a Product Manager",
+    "short_description": "Online meeting with a Tech Orda graduate about entering IT, winning grants, and becoming a product manager.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Online",
+    "region": "Taraz",
+    "address": null,
+    "start_datetime_original": "30.06.2026 19:00",
+    "end_datetime_original": "30.06.2026 20:00",
+    "start_datetime": "2026-06-30T19:00:00",
+    "end_datetime": "2026-06-30T20:00:00",
+    "event_type": "career talk",
+    "target_audience": [
+      "people entering IT",
+      "Tech Orda applicants",
+      "students",
+      "career switchers",
+      "future product managers"
+    ],
+    "organizer": "Astana Hub Taraz branch",
+    "speakers": [
+      {
+        "name": "Amira",
+        "role": "Product Manager at Documentolog; Tech Orda graduate"
+      }
+    ],
+    "technologies": [
+      "Product Management",
+      "Tech Orda",
+      "career development"
+    ],
+    "topics": [
+      "IT career",
+      "product management",
+      "Tech Orda grants",
+      "career switching"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "career checklist download",
+      "Q&A collection in app",
+      "post-event mentoring signup"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/rost-bez-khaosa-kak-vystroit-skvoznye-protsessy-i-sokhranit-upravliaemost-kompanii/",
+    "title_original": "Growth without chaos: how to build end-to-end processes and keep the company manageable",
+    "title_normalized": "Growth Without Chaos: Building End-to-End Processes",
+    "short_description": "Webinar on managing company growth by connecting documents, tasks, projects, approvals, and digital processes into one system.",
+    "area_original": "Software Development,",
+    "areas": [
+      "Software Development"
+    ],
+    "format": "Online",
+    "region": null,
+    "address": null,
+    "start_datetime_original": "01.07.2026 15:00",
+    "end_datetime_original": "01.07.2026 16:00",
+    "start_datetime": "2026-07-01T15:00:00",
+    "end_datetime": "2026-07-01T16:00:00",
+    "event_type": "webinar",
+    "target_audience": [
+      "managers",
+      "CTOs",
+      "COOs",
+      "project managers",
+      "digital transformation leaders",
+      "business process owners"
+    ],
+    "organizer": "ARMADOC.KZ / Directum Qaz",
+    "speakers": [],
+    "technologies": [
+      "CRM",
+      "ERP",
+      "task tracking",
+      "Directum QAZ",
+      "business process automation",
+      "digital transformation"
+    ],
+    "topics": [
+      "business process management",
+      "digital transformation",
+      "company scaling",
+      "management systems"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "process audit template",
+      "app poll",
+      "post-webinar checklist"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/generatsiia-kontenta-cherez-google-vids/",
+    "title_original": "Content Generation via Google Vids",
+    "title_normalized": "Content Generation via Google Vids",
+    "short_description": "Practical offline workshop on using Google Vids and AI tools to create video content.",
+    "area_original": "Artificial Intelligence and Machine Learning,",
+    "areas": [
+      "Artificial Intelligence and Machine Learning"
+    ],
+    "format": "Offline",
+    "region": "Oral",
+    "address": "Исатая-Махамбета 84, Уральск 090006, Казахстан",
+    "start_datetime_original": "01.07.2026 17:00",
+    "end_datetime_original": "01.07.2026 19:00",
+    "start_datetime": "2026-07-01T17:00:00",
+    "end_datetime": "2026-07-01T19:00:00",
+    "event_type": "workshop",
+    "target_audience": [
+      "content creators",
+      "marketers",
+      "students",
+      "business users",
+      "AI tool learners"
+    ],
+    "organizer": "Astana Hub Oral branch",
+    "speakers": [],
+    "technologies": [
+      "Google Vids",
+      "AI video generation",
+      "video content",
+      "generative AI"
+    ],
+    "topics": [
+      "AI content generation",
+      "video creation",
+      "practical workshop"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "bring-laptop checklist",
+      "app task submission",
+      "before-after content showcase"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/pizza-pitch1782363091/",
+    "title_original": "Pizza Pitch",
+    "title_normalized": "Pizza Pitch Turkistan Hub",
+    "short_description": "Pitch event for aspiring entrepreneurs and startup founders to present ideas, receive feedback, network, and meet peers.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Offline",
+    "region": "Turkestan",
+    "address": "Проспект Б. Саттарханова 36, Түркістан 161200, Казахстан",
+    "start_datetime_original": "03.07.2026 15:00",
+    "end_datetime_original": "03.07.2026 18:00",
+    "start_datetime": "2026-07-03T15:00:00",
+    "end_datetime": "2026-07-03T18:00:00",
+    "event_type": "pitch session",
+    "target_audience": [
+      "aspiring entrepreneurs",
+      "startup founders",
+      "early-stage teams",
+      "students",
+      "local startup community"
+    ],
+    "organizer": "Turkistan Hub / Astana Hub Turkistan branch",
+    "speakers": [],
+    "technologies": [
+      "startup pitching",
+      "entrepreneurship"
+    ],
+    "topics": [
+      "startup pitching",
+      "networking",
+      "entrepreneurship",
+      "feedback"
+    ],
+    "portal_app_activation_ideas": [
+      "project registration through portal",
+      "app check-in",
+      "audience voting",
+      "startup profile pages"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/chocodevday-ml-data-meetup1781252841/",
+    "title_original": "ChocoDevDay: ML & Data Meetup!",
+    "title_normalized": "ChocoDevDay: ML & Data Meetup",
+    "short_description": "ML and data meetup with talks on ML research automation, Gemini, enterprise GenAI, data architecture, and analytics.",
+    "area_original": "Artificial Intelligence and Machine Learning,",
+    "areas": [
+      "Artificial Intelligence and Machine Learning"
+    ],
+    "format": "Online",
+    "region": "Almaty",
+    "address": "улица Байзакова 280, Алматы 050000, Казахстан",
+    "start_datetime_original": "08.07.2026 18:30",
+    "end_datetime_original": "08.07.2026 21:00",
+    "start_datetime": "2026-07-08T18:30:00",
+    "end_datetime": "2026-07-08T21:00:00",
+    "event_type": "meetup",
+    "target_audience": [
+      "AI engineers",
+      "ML engineers",
+      "data analysts",
+      "data scientists",
+      "developers",
+      "tech community"
+    ],
+    "organizer": "Redprice / ChocoDevDay with Product Masters",
+    "speakers": [
+      {
+        "name": "Abylai Turekhasim",
+        "role": "AI Engineer at Freedom AI Labs",
+        "topic": "The ClaudeBeck case: How we automated ML research"
+      },
+      {
+        "name": "Adilet Zhaksybai",
+        "role": "ex-Google DeepMind",
+        "topic": "Lessons from working on Gemini at Google DeepMind"
+      },
+      {
+        "name": "Tseren Anjukaev",
+        "role": "co-founder of NCSpeech",
+        "topic": "Enterprise GenAI: Data Architecture as a new competitive advantage"
+      },
+      {
+        "name": "Rustem Tukabekov",
+        "role": "CDO at Halyk Market",
+        "topic": "Building analytics from scratch"
+      }
+    ],
+    "technologies": [
+      "Machine Learning",
+      "Data Analytics",
+      "Generative AI",
+      "Gemini",
+      "Data Architecture",
+      "ML research automation"
+    ],
+    "topics": [
+      "ML",
+      "data",
+      "GenAI",
+      "analytics",
+      "technical meetup"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "speaker Q&A in app",
+      "talk rating",
+      "materials download",
+      "post-event discussion"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/kolesa-product-design-meetup-2026/",
+    "title_original": "Kolesa Product Design Meetup",
+    "title_normalized": "Kolesa Product Design Meetup",
+    "short_description": "Product design meetup covering CX design, DesignOps automation in Figma, and live discussion of designers' real problems.",
+    "area_original": "Web Development and Design,",
+    "areas": [
+      "Web Development and Design"
+    ],
+    "format": "Online",
+    "region": "Almaty",
+    "address": "улица Шевченко 157/4, Алматы 050000, Казахстан",
+    "start_datetime_original": "09.07.2026 18:00",
+    "end_datetime_original": "09.07.2026 21:00",
+    "start_datetime": "2026-07-09T18:00:00",
+    "end_datetime": "2026-07-09T21:00:00",
+    "event_type": "meetup",
+    "target_audience": [
+      "product designers",
+      "UX/UI designers",
+      "design system specialists",
+      "product teams",
+      "design leads"
+    ],
+    "organizer": "Kolesa Group",
+    "speakers": [
+      {
+        "name": "Sasha Evgrafova",
+        "role": "Product Designer at Kolesa Group",
+        "topic": "Design beyond interfaces"
+      },
+      {
+        "name": "Diaz Tuleubai",
+        "role": "Design System Lead, Bank CenterCredit",
+        "topic": "DesignOps automation in Figma"
+      },
+      {
+        "name": "Vladislav Gusev",
+        "role": "Product Designer, Kolesa Group"
+      },
+      {
+        "name": "Azhar Kultasova",
+        "role": "International Head of Product Design, ex OpenTable, BBC News"
+      },
+      {
+        "name": "Victor Krivenky",
+        "role": "Head of Design, Bank CenterCredit"
+      },
+      {
+        "name": "Roman Iminov",
+        "role": "Product Design Lead, Kolesa Group"
+      }
+    ],
+    "technologies": [
+      "Product Design",
+      "UX",
+      "CX",
+      "DesignOps",
+      "Figma",
+      "Design Systems"
+    ],
+    "topics": [
+      "product design",
+      "design automation",
+      "customer experience",
+      "panel discussion"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "question collection in app",
+      "case voting",
+      "resource sharing",
+      "post-event design challenge"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/kolesa-online-meetup-po-analitike-2026/",
+    "title_original": "Kolesa Online Analytics Meetup 2026",
+    "title_normalized": "Kolesa Online Analytics Meetup 2026",
+    "short_description": "Online analytics meetup about a product experiment lifecycle, holdout groups, and why a successful test may still fail later.",
+    "area_original": "Software Development, Software Testing and Quality Assurance,",
+    "areas": [
+      "Software Development",
+      "Software Testing and Quality Assurance"
+    ],
+    "format": "Online",
+    "region": "Almaty",
+    "address": null,
+    "start_datetime_original": "15.07.2026 18:00",
+    "end_datetime_original": "15.07.2026 19:30",
+    "start_datetime": "2026-07-15T18:00:00",
+    "end_datetime": "2026-07-15T19:30:00",
+    "event_type": "meetup",
+    "target_audience": [
+      "data analysts",
+      "product analysts",
+      "product managers",
+      "software teams",
+      "QA specialists"
+    ],
+    "organizer": "Kolesa Group",
+    "speakers": [
+      {
+        "name": "Kamila Bishenova",
+        "role": "Data Analyst, Kolesa Group",
+        "topic": "Holdout testing and experiment lifecycle"
+      }
+    ],
+    "technologies": [
+      "Data Analytics",
+      "A/B testing",
+      "Holdout groups",
+      "Product experiments"
+    ],
+    "topics": [
+      "analytics",
+      "experimentation",
+      "product testing",
+      "data-driven decisions"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "live poll",
+      "experiment checklist",
+      "app Q&A"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/world-artificial-intelligence-conference-2026/",
+    "title_original": "World Artificial Intelligence Conference 2026",
+    "title_normalized": "World Artificial Intelligence Conference 2026 Startup Selection",
+    "short_description": "Selection opportunity for AI startups to join Kazakhstan's presence at WAIC 2026 in China as stand participants or business delegation members.",
+    "area_original": "Artificial Intelligence and Machine Learning,",
+    "areas": [
+      "Artificial Intelligence and Machine Learning"
+    ],
+    "format": "Online",
+    "region": null,
+    "address": null,
+    "start_datetime_original": "17.07.2026 09:00",
+    "end_datetime_original": "20.07.2026 20:00",
+    "start_datetime": "2026-07-17T09:00:00",
+    "end_datetime": "2026-07-20T20:00:00",
+    "event_type": "startup selection",
+    "target_audience": [
+      "AI startups",
+      "Astana Hub residents",
+      "startup founders with Chinese market focus",
+      "international business development teams"
+    ],
+    "organizer": "Astana Hub with Khan Tengri Innovation Hub",
+    "speakers": [],
+    "technologies": [
+      "Artificial Intelligence",
+      "startup export",
+      "international business development"
+    ],
+    "topics": [
+      "AI startups",
+      "WAIC 2026",
+      "China market",
+      "international partnerships",
+      "startup delegation"
+    ],
+    "portal_app_activation_ideas": [
+      "portal application form",
+      "startup profile verification",
+      "selection status tracking",
+      "app notifications"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/pizza-pitch-vpervye-proidet-v-alem-ai1782190555/",
+    "title_original": "Pizza Pitch will be held for the first time in alem.ai !",
+    "title_normalized": "Pizza Pitch at alem.ai",
+    "short_description": "Open pitch session at alem.ai where selected startup teams present solutions, receive expert feedback, and connect with investors.",
+    "area_original": "Other",
+    "areas": [
+      "Other"
+    ],
+    "format": "Offline",
+    "region": "Astana",
+    "address": "Мәңгілік ел С4.6, Astana Hub, Event Hall",
+    "start_datetime_original": "23.07.2026 15:00",
+    "end_datetime_original": "23.07.2026 18:00",
+    "start_datetime": "2026-07-23T15:00:00",
+    "end_datetime": "2026-07-23T18:00:00",
+    "event_type": "pitch session",
+    "target_audience": [
+      "startup teams",
+      "startup founders",
+      "investors",
+      "experts",
+      "event guests"
+    ],
+    "organizer": "Astana Hub / alem.ai",
+    "speakers": [],
+    "technologies": [
+      "startup pitching",
+      "AI startup ecosystem"
+    ],
+    "topics": [
+      "startup pitching",
+      "alem.ai",
+      "networking",
+      "investor feedback"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration for guests and teams",
+      "startup application tracking",
+      "app check-in",
+      "audience voting",
+      "finalist profiles"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/zhivaia-sborka-ai-marketolog-za-60-minut/",
+    "title_original": "«Живая сборка: AI-Маркетолог за 60 минут»",
+    "title_normalized": "Live Build: AI Marketer in 60 Minutes",
+    "short_description": "Live webinar demonstrating how to build an AI marketer workflow for content planning, post creation, and weekly marketing rhythm.",
+    "area_original": "Artificial Intelligence and Machine Learning,",
+    "areas": [
+      "Artificial Intelligence and Machine Learning"
+    ],
+    "format": "Online",
+    "region": null,
+    "address": null,
+    "start_datetime_original": "27.08.2026 20:00",
+    "end_datetime_original": "27.08.2026 21:30",
+    "start_datetime": "2026-08-27T20:00:00",
+    "end_datetime": "2026-08-27T21:30:00",
+    "event_type": "webinar",
+    "target_audience": [
+      "solo founders",
+      "experts",
+      "bloggers",
+      "product managers",
+      "personal brand builders",
+      "content marketers"
+    ],
+    "organizer": "VYUD AI / AIstack",
+    "speakers": [
+      {
+        "name": "Dmitry Vatyutov",
+        "role": "AI Product Coach; ex-CPO Doshkola Tilly"
+      }
+    ],
+    "technologies": [
+      "AI marketing",
+      "prompt engineering",
+      "content planning",
+      "AIstack"
+    ],
+    "topics": [
+      "AI marketing",
+      "content automation",
+      "personal brand",
+      "solo founder workflow"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "live project application",
+      "app content-plan template",
+      "post-webinar challenge"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  },
+  {
+    "source_url": "https://astanahub.com/en/event/final-36-chasov-do-starta-aistack-otkrytyi-razgovor-i-zakrytie/",
+    "title_original": "Финал: 36 часов до старта AIstack. Открытый разговор и закрытие",
+    "title_normalized": "AIstack Final: Open Q&A Before Course Launch",
+    "short_description": "Final webinar before AIstack launch with results review, open Q&A, objection handling, and course offer discussion.",
+    "area_original": "Artificial Intelligence and Machine Learning,",
+    "areas": [
+      "Artificial Intelligence and Machine Learning"
+    ],
+    "format": "Online",
+    "region": null,
+    "address": null,
+    "start_datetime_original": "03.09.2026 20:00",
+    "end_datetime_original": "03.09.2026 21:30",
+    "start_datetime": "2026-09-03T20:00:00",
+    "end_datetime": "2026-09-03T21:30:00",
+    "event_type": "webinar",
+    "target_audience": [
+      "AIstack prospects",
+      "non-technical founders",
+      "solo founders",
+      "people considering AI product launch",
+      "webinar series participants"
+    ],
+    "organizer": "VYUD AI / AIstack",
+    "speakers": [
+      {
+        "name": "Dmitry Vatyutov",
+        "role": "AI Product Coach; ex-CPO Doshkola Tilly"
+      }
+    ],
+    "technologies": [
+      "AI stack",
+      "AI product building",
+      "startup education"
+    ],
+    "topics": [
+      "AI product launch",
+      "course Q&A",
+      "founder education",
+      "objection handling"
+    ],
+    "portal_app_activation_ideas": [
+      "portal registration",
+      "Q&A collection",
+      "course interest poll",
+      "follow-up notifications"
+    ],
+    "language": "en/mixed",
+    "raw_text_available": true
+  }
+]
